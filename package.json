@@ -1,0 +1,29 @@
+{
+  "name": "modal-default",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "@atlaskit/button": "20.5.0",
+    "@atlaskit/icon": "^23.7.0",
+    "@atlaskit/modal-dialog": "12.20.1",
+    "@atlaskit/primitives": "^13.4.0",
+    "@emotion/react": "11.7.1",
+    "styled-components": "3.2.6",
+    "@atlaskit/css-reset": "latest",
+    "@atlaskit/analytics-next": "latest",
+    "@atlaskit/app-provider": "latest",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "@atlaskit/image": "1.3.9",
+    "@atlaskit/logo": "16.0.1",
+    "@atlaskit/icon-lab": "3.4.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
